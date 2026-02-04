@@ -47,4 +47,4 @@ As a core member of this four-person Capstone team, I focused on the following a
 
 ---
 *Developed as part of the Computing Sciences curriculum at NJIT.*
-EOF
+
