@@ -22,27 +22,27 @@ As a core member of this four-person Capstone team, I focused on the following a
 ## 📦 Installation & Setup
 
 1. **Clone the repository:**
-   \`\`\`bash
+   ```bash
    git clone -b carlos https://github.com/mramos822/CROWDALPHA.git
    cd CROWDALPHA
-   \`\`\`
+   ```
 
 2. **Install dependencies:**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Environment Variables:**
    Create a \`.env\` file in the root directory and add your specific API keys:
-   \`\`\`text
+   ```text
    FIREBASE_API_KEY=your_api_key
    AI_MODEL_ENDPOINT=your_endpoint
-   \`\`\`
+   ```
 
 4. **Run the application:**
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
 ---
 *Developed as part of the Computing Sciences curriculum at NJIT.*
