@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # CROWDALPHA — Capstone Project
 
 **CROWDALPHA** is a financial guidance platform developed as a Senior Capstone Project by a team of four developers. The application is designed to democratize investing by providing accessible, AI-driven tools and guidance for anyone looking to enter the market or optimize their current portfolio.
